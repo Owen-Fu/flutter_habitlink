@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "502391722693",
+    "project_id": "flutter-habitlink",
+    "storage_bucket": "flutter-habitlink.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502391722693:android:a8ea7763e4d74e96b196ac",
+        "android_client_info": {
+          "package_name": "com.example.flutter_habitlink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502391722693-dajlhkcpeebe4r5e6egn43v2fr53h5e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPyh7u8NWfo6lb8sLElUVtMzy651yPiwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502391722693-dajlhkcpeebe4r5e6egn43v2fr53h5e8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "502391722693-6ve88pnu9rm8ffcngtg895kmm2sgfkun.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterHabitlink"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

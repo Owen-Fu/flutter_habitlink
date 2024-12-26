@@ -45,3 +45,7 @@ app.*.map.json
 pubspec.lock
 Podfile.lock
 coverage/*
+
+#secret env
+.env
+/ios/Runner/GoogleService-Info.plist
